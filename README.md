@@ -1,1 +1,1 @@
-# unity-cookbook-2023-ch06_04-trees-vegetation
+# unity-cookbook-2023-ch06-04-trees-vegetation
